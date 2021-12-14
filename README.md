@@ -1,4 +1,6 @@
 # JustFurPets
+# License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br>
 
 ## Description
 JustFurPets is a pet daycare management application.  JustFurPets allows daycare owners and operators to quickly access which pets are checked into the day care.  Once a user is logged in, they can view the details concerning the pets and the pets daily schedule.  The schedules can include items such as feedings, walks, medicine doses, or playdates!  The user can then add a pet, edit an existing pet, and add tasks or activities to a pet's daily schedule.  Also as a part of the application is an analytics page to give the user a quick glance at the daycare pet data in organized charts.
